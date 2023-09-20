@@ -21,7 +21,7 @@ export default function Home() {
         <Image src={ilustration} alt='images ilustrativa' className='h-96' />
       </section>
 
-      <section className='flex-col items-center justify-center bg-gray-700 p-10 rounded-md mx-10 w-full max-w-xs'>
+      <section className='flex-col items-center justify-center bg-gray-700 p-10 rounded-md mx-10 w-full max-w-sm'>
         <form
           id='form'
           onSubmit={(event) =>
