@@ -14,7 +14,7 @@ Este é um projeto de uma Calculadora de Índice de Massa Corporal (IMC) desenvo
 - Next/Image (para exibição de imagens)
 
 ### Como Usar
-- Clone este repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+- Clone este repositório
 - Acesse o diretório do projeto: `cd seu-repositorio`
 - Instale as dependências: `npm install`  ou  `yarn install`
 - Inicie o servidor de desenvolvimento: `npm run dev`  ou  `yarn dev`
